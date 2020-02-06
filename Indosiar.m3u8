@@ -3,4 +3,4 @@
 
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://anevia114.mncnow.id/live/eds/Indosiar/sa_hls/Indosiar-avc1_1000000=9-mp4a_6690_eng=2.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1581118308~acl=/hls-b/ingest_205_*/*~hmac=88ffdd2aa298d2cf42d0801e3545e7ddec1529e8ad7481c682949a63777d7398/hls-b/ingest_205_720p/index.m3u8
